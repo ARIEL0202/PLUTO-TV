@@ -28,9 +28,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 #EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-name="Pluto TV Cine Terror Latino" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png",Pluto TV Cine Terror (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-name="Pluto TV Cine Estelar Latino" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png",Pluto TV Cine Estelar (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8? deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-
 #EXTINF:-1 tvg-id="5d8d164d92e97a5e107638d2" tvg-name="Pluto TV Cine-Acción Latino" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png",Pluto TV Cine Accion (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
@@ -40,11 +37,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d90009
 #EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-name="Pluto TV Cine Drama Latino" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",Pluto TV Cine Drama (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
+#EXTINF:-1 tvg-id="138983" tvg-name="CINE DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", CINE DRAMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro Latino" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png",Pluto TV Series Retro (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-id="5f984b18dfe75800070e8645" tvg-name="pluto tv Navidad" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png",pluto tv navidad
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984b18dfe75800070e8645/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1 tvg-id="138990" tvg-name="MLS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", MLS TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true&PlaylistM3UCL
+#EXTINF:-1 tvg-id="138989" tvg-name="COMBATE AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", COMBATE AMÉRICA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&PlaylistM3UCL
+#EXTINF:-1 tvg-id="138988" tvg-name="TEEN START" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", TEEN START
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7430-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0a77951-0789-4708-b820-e6bcefa8ee82&userId=&serverSideAds=true&PlaylistM3UCL
+#EXTINF:-1 tvg-id="138985" tvg-name="CINE LATINO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", CINE LATINO 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true&PlaylistM3UCL
+#EXTINF:-1 tvg-id="138984" tvg-name="Paramount + presenta " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", Paramount + presenta 
+https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png",mtv Originals
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
@@ -60,9 +68,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c777823000073
 
 #EXTINF:-1 tvg-id="5f1ab9c6d8f1300007f54e30" tvg-name="MTV Cribs" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png",MTV Cribs
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-
-#EXTINF:-1 tvg-id="5f984fdc470d460007a67094" tvg-name="MTV Hits Navidad" tvg-logo="https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png",mtv hits navidad
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-name="Comedia made in Spain" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png",Comedia made in Spain
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
@@ -81,6 +86,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abe3ffcd65900077
 
 #EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png",Pluto TV Cocina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="140330" tvg-name="PLUTO TV COCINA" tvg-logo="" group-title="..::Canales Premium::..", PLUTO TV COCINA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channe&PlaylistM3UCL&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="5d8d10ce06a9665fe54bf74a" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png",Pluto TV Natura
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
@@ -112,9 +120,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076
 #EXTINF:-1 tvg-id="5f984ba0c54853000797a5e6" tvg-name="Kids Navidad" tvg-logo="https://images.pluto.tv/channels/5f984ba0c54853000797a5e6/colorLogoPNG.png",kids navidad es
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984ba0c54853000797a5e6/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-id="5f1abeb21044ee0007f19d33" tvg-name="Pluto TV Kids Halloween" tvg-logo="https://images.pluto.tv/channels/5f1abeb21044ee0007f19d33/colorLogoPNG.png",Pluto TV Kids Halloween
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-
 #EXTINF:-1 tvg-id="5f1aa7aab66c76000790ee7e" tvg-name="Big Time Rush" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png",Big Time Rush
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
@@ -123,4 +128,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa82c150b2500077
 
 #EXTINF:-1 tvg-id="5f1aa89d42a0500007363ea3" tvg-name="Go Diego Go!" tvg-logo="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png",Go Diego Go!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-name="Pluto TV Cine Estelar Latino" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png",Pluto TV Cine Estelar (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8? deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="5f984b18dfe75800070e8645" tvg-name="pluto tv Navidad" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png",pluto tv navidad
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984b18dfe75800070e8645/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="5f984fdc470d460007a67094" tvg-name="MTV Hits Navidad" tvg-logo="https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png",mtv hits navidad
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="5f984ba0c54853000797a5e6" tvg-name="Kids Navidad" tvg-logo="https://images.pluto.tv/channels/5f984ba0c54853000797a5e6/colorLogoPNG.png",kids navidad es
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984ba0c54853000797a5e6/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="5f1abeb21044ee0007f19d33" tvg-name="Pluto TV Kids Halloween" tvg-logo="https://images.pluto.tv/channels/5f1abeb21044ee0007f19d33/colorLogoPNG.png",Pluto TV Kids Halloween
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 

@@ -100,6 +100,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa
 #EXTINF:-1 tvg-id="5d8d10ce06a9665fe54bf74a" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png",Pluto TV Natura
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
+#EXTINF:-1 tvg-id="138996" tvg-name="PLUTO TV HOGAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", PLUTO TV HOGAR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83815638-64f0-4bf4-8cd2-92feb27f8740&userId=&serverSideAds=true&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="5f1acdfda84c970007e750b5" tvg-name="Pluto TV Mundo Real" tvg-logo="https://images.pluto.tv/channels/5f1acdfda84c970007e750b5/colorLogoPNG.png",Pluto TV Mundo Real
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 

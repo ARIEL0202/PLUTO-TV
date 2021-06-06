@@ -52,9 +52,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539b
 #EXTINF:-1 tvg-id="138988" tvg-name="TEEN START" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", TEEN START
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7430-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0a77951-0789-4708-b820-e6bcefa8ee82&userId=&serverSideAds=true&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="138985" tvg-name="CINE LATINO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", CINE LATINO 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true&PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="141068" tvg-name="149 Telefe Clasico" tvg-logo="" group-title="00 - Argentina", 149 Telefe Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=128fbcf4-4117-471c-9c90-95780410b922&userId=&serverSideAds=true&PlaylistM3UCL
 

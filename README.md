@@ -724,18 +724,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc5485300079
 #EXTINF:-152 tvg-logo="https://i.postimg.cc/W3JdZhgx/HOGAR.png" group-title="ESTILO DE VIDA", PLUTO TV HOGAR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83815638-64f0-4bf4-8cd2-92feb27f8740&userId=&serverSideAds=true
 
-#EXTINF:-175 tvg-logo="https://i.postimg.cc/wj2CgsGY/orbe21.png" group-title="CATÓLICO", ORBE 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="CINE Y SERIES 2", WIPE OUT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-175 tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO", LOGOS TV
-https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="CINE Y SERIES 2", MUTANTE X
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-175 tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO", LOGOS TV SALUD
-https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-
-#EXTINF:-175 tvg-logo="https://i.postimg.cc/HxZnRXxL/cbnes.jpg" group-title="EVANGÉLICO", CBN ESPAÑOL
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_1200_av-p.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="CINE Y SERIES 2", LOS ASESINATOS DE MIDSOMER
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
